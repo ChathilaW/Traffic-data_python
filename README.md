@@ -1,5 +1,5 @@
 # Traffic-data_python
-This is a python file that reads the given csv files by the date you select and gives out data such as total number of vehicles, etc.
+This is a python program that reads the given csv files by the date you select and gives out data such as total number of vehicles, etc.
 A pop up histogram representing number of vehicles per hour for whole 24hrs will also be given as an output.
 Histogram also display data for 2 roads, the bars are situated side by side making it easier for comparision.
 All the outputs are recorded into a text file until the user decide to exit the program.
