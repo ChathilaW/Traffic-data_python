@@ -9,7 +9,7 @@ You also can add csv files of your own as long the file name is similar to that 
 You can view the python code on github itself.
 
 To run the program:
-  >Download and install an approtiate application inorder run the python file Eg:-pycharm.
+  >Download and install an approtiate application inorder to run the program Eg:-pycharm.
   >Download the 'traffic-data.zip' file.
   >Extract all the files within the zip file to a single folder.
   >Run 'Traffic-data_chathila.py' using python.
